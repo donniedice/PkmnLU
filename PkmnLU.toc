@@ -1,6 +1,8 @@
 ## Interface: 90200
-## Title:|cffffffffPokemon|r Level Up
-## Author: DonnieDice, MargoMatrix
-## Version: 1.0a
+## Interface-Classic: 11402
+## Interface-BCC: 20503
+## Title:|cffffffffPokemon|r Level Up!
+## Author: DonnieDice
+## Version: 1.0.1a
 ## Notes: Grats!
 main.lua
