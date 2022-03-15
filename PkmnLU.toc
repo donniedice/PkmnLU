@@ -1,4 +1,4 @@
-## Interface: 32638
+## Interface: 90200
 ## Title:|cffffffffPokemon|r Level Up
 ## Author: DonnieDice, MargoMatrix
 ## Version: 1.0a
