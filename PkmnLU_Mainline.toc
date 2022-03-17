@@ -1,0 +1,12 @@
+## Interface: 90200
+## Version: 1.0.2a
+## Title:|cffffffffPokemon|r Level Up!
+## Author: DonnieDice
+## Notes: Grats!
+
+## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
+## X-Website: https://github.com/donniedice/PkmnLU
+## X-Curse-Project-ID: 399043
+## X-WoWI-ID: 26261
+
+main.lua
