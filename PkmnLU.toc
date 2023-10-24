@@ -1,5 +1,5 @@
-## Interface: 100002
-## Version: 1.0.6
+## Interface: 100107
+## Version: 1.0.7
 ## Title:|cfff04d4ePokemon|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,8 +7,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/PkmnLU
 ## X-Curse-Project-ID: 399043
-## X-Tukui-ProjectID: 233
 ## X-Wago-ID: ZQ6aVPKW
 ## X-WoWI-ID: 26261
 
-main.lua
+Core.lua
