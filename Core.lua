@@ -1,4 +1,4 @@
--- v1.0.7
+-- v1.0.8
 
 -- Event function level up
 -- This function creates a frame that registers the "PLAYER_LEVEL_UP" event and plays a custom sound file when triggered.
